@@ -6,14 +6,14 @@ public class Truck extends WheeledTransport {
     }
 
     public void updateTyre() {
-        System.out.println("Меняем покрышку у грузовой машины");
+        System.out.println(" Меняем покрышку у грузовой машины");
     }
 
     public void checkEngine() {
-        System.out.println("Проверяем двигатель у грузовой машины");
+        System.out.println(" Проверяем двигатель у грузовой машины");
     }
 
     public void checkTrailer() {
-        System.out.println("Проверяем прицеп у грузовой машины");
+        System.out.println(" Проверяем прицеп у грузовой машины");
     }
 }
