@@ -5,6 +5,6 @@ public class Bicycle extends  WheeledTransport {
     }
 
     public void updateTyre() {
-        System.out.println("Меняем покрышку у велосипеда");
+        System.out.println(" Меняем покрышку у велосипеда");
     }
 }

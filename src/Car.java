@@ -6,10 +6,10 @@ public class Car extends WheeledTransport{
     }
 
     public void updateTyre() {
-        System.out.println("Меняем покрышку у машины");
+        System.out.println(" Меняем покрышку у машины");
     }
 
     public void checkEngine() {
-        System.out.println("Проверяем двигатель у машины");
+        System.out.println(" Проверяем двигатель у машины");
     }
 }
